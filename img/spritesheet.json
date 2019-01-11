@@ -1,0 +1,28 @@
+{"frames": {
+
+"expressive_dog.png":
+{
+	"frame": {"x":0,"y":0,"w":448,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":448,"h":421},
+	"sourceSize": {"w":448,"h":421}
+},
+"glasses.png":
+{
+	"frame": {"x":0,"y":421,"w":930,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":930,"h":600},
+	"sourceSize": {"w":930,"h":600}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":930,"h":1021},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e0b9cc4db83aa74ad2229e2bb1aea69f:7758cae7e07761f3554ae9a1e8da5c4e:729adc6043343cfda41c447ce8f464d6$"
+}
+}
